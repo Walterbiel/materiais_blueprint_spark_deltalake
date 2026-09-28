@@ -1,0 +1,15 @@
+{"id":1,"vendedor_id":1,"vendedor":"Ana","regiao":"Sudeste","produto":"Notebook","valor":3200.0,"mes":"Jan","data_venda":"2026-01-05"}
+{"id":2,"vendedor_id":1,"vendedor":"Ana","regiao":"Sudeste","produto":"Mouse","valor":80.0,"mes":"Jan","data_venda":"2026-01-07"}
+{"id":3,"vendedor_id":2,"vendedor":"Bruno","regiao":"Sul","produto":"Monitor","valor":950.0,"mes":"Jan","data_venda":"2026-01-10"}
+{"id":4,"vendedor_id":2,"vendedor":"Bruno","regiao":"Sul","produto":"Teclado","valor":220.0,"mes":"Fev","data_venda":"2026-02-02"}
+{"id":5,"vendedor_id":3,"vendedor":"Carla","regiao":"Nordeste","produto":"Notebook","valor":3400.0,"mes":"Fev","data_venda":"2026-02-11"}
+{"id":6,"vendedor_id":3,"vendedor":"Carla","regiao":"Nordeste","produto":"Webcam","valor":150.0,"mes":"Fev","data_venda":"2026-02-14"}
+{"id":7,"vendedor_id":4,"vendedor":"Diego","regiao":"Centro-Oeste","produto":"Monitor","valor":980.0,"mes":"Mar","data_venda":"2026-03-03"}
+{"id":8,"vendedor_id":4,"vendedor":"Diego","regiao":"Centro-Oeste","produto":"Notebook","valor":3100.0,"mes":"Mar","data_venda":"2026-03-09"}
+{"id":9,"vendedor_id":5,"vendedor":"Elaine","regiao":"Norte","produto":"Mouse","valor":75.0,"mes":"Mar","data_venda":"2026-03-15"}
+{"id":10,"vendedor_id":5,"vendedor":"Elaine","regiao":"Norte","produto":"Teclado","valor":210.0,"mes":"Mar","data_venda":"2026-03-20"}
+{"id":11,"vendedor_id":1,"vendedor":"Ana","regiao":"Sudeste","produto":"Monitor","valor":970.0,"mes":"Abr","data_venda":"2026-04-02"}
+{"id":12,"vendedor_id":2,"vendedor":"Bruno","regiao":"Sul","produto":"Notebook","valor":3300.0,"mes":"Abr","data_venda":"2026-04-08"}
+{"id":13,"vendedor_id":3,"vendedor":"Carla","regiao":"Nordeste","produto":"Mouse","valor":82.0,"mes":"Abr","data_venda":"2026-04-12"}
+{"id":14,"vendedor_id":4,"vendedor":"Diego","regiao":"Centro-Oeste","produto":"Webcam","valor":145.0,"mes":"Mai","data_venda":"2026-05-01"}
+{"id":15,"vendedor_id":5,"vendedor":"Elaine","regiao":"Norte","produto":"Notebook","valor":3250.0,"mes":"Mai","data_venda":"2026-05-06"}

@@ -1,0 +1,16 @@
+id,vendedor_id,vendedor,regiao,produto,valor,mes,data_venda
+1,1,Ana,Sudeste,Notebook,3200.0,Jan,2026-01-05
+2,1,Ana,Sudeste,Mouse,80.0,Jan,2026-01-07
+3,2,Bruno,Sul,Monitor,950.0,Jan,2026-01-10
+4,2,Bruno,Sul,Teclado,220.0,Fev,2026-02-02
+5,3,Carla,Nordeste,Notebook,3400.0,Fev,2026-02-11
+6,3,Carla,Nordeste,Webcam,150.0,Fev,2026-02-14
+7,4,Diego,Centro-Oeste,Monitor,980.0,Mar,2026-03-03
+8,4,Diego,Centro-Oeste,Notebook,3100.0,Mar,2026-03-09
+9,5,Elaine,Norte,Mouse,75.0,Mar,2026-03-15
+10,5,Elaine,Norte,Teclado,210.0,Mar,2026-03-20
+11,1,Ana,Sudeste,Monitor,970.0,Abr,2026-04-02
+12,2,Bruno,Sul,Notebook,3300.0,Abr,2026-04-08
+13,3,Carla,Nordeste,Mouse,82.0,Abr,2026-04-12
+14,4,Diego,Centro-Oeste,Webcam,145.0,Mai,2026-05-01
+15,5,Elaine,Norte,Notebook,3250.0,Mai,2026-05-06
